@@ -72,8 +72,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
 
-###
+### 🔥 My Stats
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<div align="center">
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=psgktp18-rgb&show_icons=true&theme=tokyonight" height="150" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=psgktp18-rgb&theme=tokyonight" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psgktp18-rgb&layout=compact&theme=tokyonight" height="150" />
+
+</div>
